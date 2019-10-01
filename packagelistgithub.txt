@@ -1,0 +1,8 @@
+devtools::install_github("Amherst-Statistics/CollegeScorecard")
+devtools::install_github("Amherst-Statistics/acstats-thesis")
+devtools::install_github("End-to-end-provenance/provSummarizeR")
+devtools::install_github("End-to-end-provenance/rdt")
+devtools::install_github("End-to-end-provenance/rdtLite")
+devtools::install_github("OpenIntroStat/openintro-r-package")
+devtools::install_github("beanumber/fec")
+devtools::install_github("hrbrmstr/streamgraph")

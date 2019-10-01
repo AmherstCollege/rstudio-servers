@@ -1,3 +1,5 @@
+# THIS FILE IS OBSOLETE: SEE https://github.com/AmherstCollege/rstudio-servers/blob/master/packagelist.txt
+
 # R packages installed on the RStudio server at Amherst College
 # install.packages("shiny", lib="/usr/lib64/R/library/")
 #install.packages("swirl")    # don't install me (it messes people up when they try to install a course)
