@@ -1,4 +1,6 @@
-# THIS FILE IS OBSOLETE: SEE https://github.com/AmherstCollege/rstudio-servers/blob/master/packagelist.txt
+# THIS FILE IS OBSOLETE AND SHOULD NOT BE EDITED OR USED: 
+# Nicholas Horton nhorton@amherst.edu Tue Oct  1 05:32:51 EDT 2019
+# SEE https://github.com/AmherstCollege/rstudio-servers/blob/master/
 
 # R packages installed on the RStudio server at Amherst College
 # install.packages("shiny", lib="/usr/lib64/R/library/")
