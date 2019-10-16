@@ -1,4 +1,5 @@
 devtools::install_github("Amherst-Statistics/CollegeScorecard")
+devtools::install_github("Amherst-Statistics/DickinsonPoems")
 devtools::install_github("Amherst-Statistics/acstats-thesis")
 devtools::install_github("End-to-end-provenance/provSummarizeR")
 devtools::install_github("End-to-end-provenance/rdt")
