@@ -1,4 +1,5 @@
 install.packages("gpclib")
+install.packages("emmeans")
 install.packages("intergraph")
 install.packages("BSDA")
 install.packages("DBI")
